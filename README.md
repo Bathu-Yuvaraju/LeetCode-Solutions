@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -27,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
