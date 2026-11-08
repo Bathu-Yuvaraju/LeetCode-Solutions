@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0048-rotate-image) |
 ## Algorithm X
 |  |
 | ------- |
