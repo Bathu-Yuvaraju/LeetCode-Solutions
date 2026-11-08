@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0392-is-subsequence](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
