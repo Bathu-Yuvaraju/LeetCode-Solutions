@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
