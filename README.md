@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -267,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
