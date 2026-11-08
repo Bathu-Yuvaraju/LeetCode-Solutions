@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
