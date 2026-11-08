@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/bathuyuvaraj-hash/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
